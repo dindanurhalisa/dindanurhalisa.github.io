@@ -15,4 +15,4 @@
 - [UI Dhiyas Laundry Point Of Sales](https://www.figma.com/file/vOZeAODiCnvlMdJOTRPWHs/DL-POS?type=design&node-id=0-1&mode=design&t=Jm6glJRHqeylPk7z-0)
 - [Input File CSV to XML Output and Table Output Using Pentaho PDI "Database MySQL"](https://youtu.be/EaIXFp0f2Us)
 - [Sekolah Beta Flutter](https://github.com/dindanurhalisa/sekolah_beta_flutter)
-- [Aplikasi Notes using Flutter and Firebase](https://drive.google.com/drive/folders/1r5e7Uyf0Je-DML0Otwwvi9do8ZJiclFL?usp=sharing)
+- [Aplikasi Notes using Flutter and Firebase](https://drive.google.com/drive/folders/1GpA-C6k2bLPCrbVUn0h8jdhiISQHK6Dt?usp=sharing)
