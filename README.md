@@ -16,3 +16,8 @@
 - [Input File CSV to XML Output and Table Output Using Pentaho PDI "Database MySQL"](https://youtu.be/EaIXFp0f2Us)
 - [Sekolah Beta Flutter](https://github.com/dindanurhalisa/sekolah_beta_flutter)
 - [Aplikasi Notes using Flutter and Firebase](https://drive.google.com/drive/folders/1GpA-C6k2bLPCrbVUn0h8jdhiISQHK6Dt?usp=sharing)
+- [Pengembangan Data Warehouse dan Dashboard](https://youtu.be/YlzxzJEGQ94?si=0wCuqB48vBwH5gEZ)
+- [Aplikasi Android Sederhana "Buku"](https://github.com/dindanurhalisa/myapplication-android-beginner)
+- [Aplikasi Android Fundamental "Github User"](https://github.com/dindanurhalisa/dindasubmission-android-fundamental-github-user)
+- [Permainan "Dino Run" berbasis Website](https://github.com/dindanurhalisa/PWeb_UTS_E_13_Dino-Run)
+- [Aplikasi Penerapan Machine Learning Android "Pendeteksi Cancer"](https://github.com/dindanurhalisa/submission-ml-cancer)
