@@ -6,6 +6,7 @@
 - [Youtube](https://youtube.com/@dindanurhalisa474?si=TrvO0UEXlMPEWjOC)
 - [Blogger](https://codingdindaseru.blogspot.com/)
 - [Instagram](https://www.instagram.com/dinnrhls?utm_source=qr)
+- [Sertifikat](https://drive.google.com/drive/folders/1Pk42xqLDz5-Wrpf_BDxjdzg_p7I1vIJK?usp=drive_link)
 
 ## List Project :
 
